@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Han</h3>
+<h3 align="left">Hi, I'm Han.</h3>
 <h4 align="left">An amateur-->intermediate web developer, constantly finding new things to learn.</h4>
 <br>
 
