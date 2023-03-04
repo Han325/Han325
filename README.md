@@ -1,4 +1,4 @@
-<h3 align="left">Building things and getting things done.</h3>
+<h3 align="left">Building things and (trying to) get things done.</h3>
 <h4 align="left">An amateur to intermediate web developer, finding new things to learn.</h4>
 <br>
 
